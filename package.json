@@ -2,6 +2,8 @@
   "name": "first-clean",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://stephzida.github.io/First-Clean",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,6 +13,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
+    "gh-pages": "^6.3.0",
     "lucide-react": "^0.562.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
